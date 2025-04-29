@@ -1,4 +1,3 @@
-Here's the complete `README.md` content you can copy and use directly in your project:
 
 ---
 
