@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # HinglishAI  
 ## 🧠 Hinglish AI Assistant Fine-Tuning with Gemini Flash 2.0
 
